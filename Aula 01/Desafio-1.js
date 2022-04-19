@@ -33,7 +33,10 @@ var comida = ["arroz","Feijão","ovo"];
 // Digite a instrução que imprime o valor de 'feijao', que está na variável `comida`.
 
 comida[1];
+<<<<<<< HEAD
 console.log(comida[1]);
+=======
+>>>>>>> 809608937ae8453a356d96609475cbec9bf4a3de
 
 // Digite o código que verifica se a variável `soma' é igual a variável `myvar` (testando também o tipo).
 
