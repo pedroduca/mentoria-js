@@ -1,4 +1,10 @@
 // Crie uma função que receba dois argumentos e retorne a soma dos mesmos.
+function soma(a, b) {
+    a = 10;
+    b = 23;
+    var resultado = a + b ;
+    
+}
 
 // Declare uma variável que receba a invocação da função criada acima, passando dois números quaisquer por argumento, e somando `5` ao resultado retornado da função.
 
